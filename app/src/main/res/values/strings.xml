@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Easypick</string>
+    <string name="cambiar_fragment">Cambiar a fragment</string>
+    <string name="cambiar_fragment2">Cambiar a fragment 2</string>
 </resources>
